@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\NewSprout\bin\Debug\NewSprout.exe.config
+C:\Users\ASUS\source\repos\NewSprout\bin\Debug\NewSprout.exe
+C:\Users\ASUS\source\repos\NewSprout\bin\Debug\NewSprout.pdb
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.exe
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.pdb
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.AnaMenu.resources
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.Login.resources
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.Register.resources
+C:\Users\ASUS\source\repos\NewSprout\obj\Debug\NewSprout.adminpanel.resources
